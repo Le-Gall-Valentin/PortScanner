@@ -1,7 +1,7 @@
 # Travail Pratique #1: TCP Port Scanner
 
 ## Auteurs
-- Code permanent, nom, prénom
+- LEGV17030400, Le Gall, Valentin
 
 ## Compatibilité
 
