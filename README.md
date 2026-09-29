@@ -2,6 +2,7 @@
 
 ## Auteurs
 - LEGV17030400, Le Gall, Valentin
+- GIRB04080500, Girard, Benoit
 
 ## Compatibilité
 
