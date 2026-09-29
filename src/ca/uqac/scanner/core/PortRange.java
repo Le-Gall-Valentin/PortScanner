@@ -5,8 +5,8 @@ import java.util.stream.IntStream;
 /**
  * An inclusive range of TCP ports, such as {@code 1-1023}.
  *
- * <p>Port {@code 0} is outside every valid range: it is a wildcard used when binding a socket
- * and can never be the destination of a connection.
+ * <p>Port {@code 0} is outside every valid range: it is a wildcard asking the system for any free
+ * port when binding a socket, so no service can listen on it and no connection can reach it.
  *
  * @param first the lowest port of the range, from {@value #MIN_PORT} to {@code last}
  * @param last  the highest port of the range, from {@code first} to {@value #MAX_PORT}
